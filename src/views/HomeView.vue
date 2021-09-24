@@ -16,7 +16,7 @@
                 <a href="https://twitter.com/AdrienLucbert" target="_blank">
                     <svg-icon name="twitter"/>
                 </a>
-                <a href="mailto:adrien.lucbert@epitech.eu">
+                <a href="mailto:adrien.lucbert.pro@gmail.com">
                     <svg-icon name="email"/>
                 </a>
             </div>
